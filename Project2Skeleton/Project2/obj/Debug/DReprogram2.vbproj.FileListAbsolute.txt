@@ -1,0 +1,3 @@
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.exe
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.xml
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.pdb

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project2.clsController">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAAIAAAAEAAAIAAIAIQBAAAAMAAAAAACAgAAAAAAQ=</HashCode>
+      <FileName>clsController.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.clsOrder">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUoAAoACAAEEkIAwAAAACAA6RgQYoqIIAGAAAoCIgAU=</HashCode>
+      <FileName>clsOrder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.clsOrderDetail">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAAQEEAAAAAAAAAIAEwAAEAQIAAGAAAIAAAAA=</HashCode>
+      <FileName>clsOrderDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.frmMain">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAoAIAACEJAAmAAgSAUAADAhIAEgACQBhEAAkwAMQ=</HashCode>
+      <FileName>frmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.frmChild">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sQAIACJGpCCKWAkAMIiABCCKIQg8NDEAIIEBAAIIA4Q=</HashCode>
+      <FileName>frmOrder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.My.MyApplication">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2.My.MySettings">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Project2.My.MySettingsProperty">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Project2.My.Resources.Resources">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
