@@ -1,0 +1,11 @@
+bin\Debug\MDI_Application.exe
+bin\Debug\MDI_Application.pdb
+bin\Debug\MDI_Application.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MDI_Application.frmChild.resources
+obj\Debug\MDI_Application.frmMain.resources
+obj\Debug\MDI_Application.Resources.resources
+obj\Debug\MDI_Application.vbproj.GenerateResource.Cache
+obj\Debug\MDI_Application.exe
+obj\Debug\MDI_Application.xml
+obj\Debug\MDI_Application.pdb

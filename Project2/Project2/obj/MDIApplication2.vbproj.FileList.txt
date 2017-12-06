@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MDIApplication2.vbproj.GenerateResource.Cache
+bin\Debug\MDIApplication2.exe
+bin\Debug\MDIApplication2.pdb
+bin\Debug\MDIApplication2.xml
+obj\Debug\MDIApplication2.frmChild.resources
+obj\Debug\MDIApplication2.frmMain.resources
+obj\Debug\MDIApplication2.Resources.resources
+obj\Debug\MDIApplication2.exe
+obj\Debug\MDIApplication2.xml
+obj\Debug\MDIApplication2.pdb

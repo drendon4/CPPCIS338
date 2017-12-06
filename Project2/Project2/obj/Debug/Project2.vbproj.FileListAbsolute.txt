@@ -1,0 +1,39 @@
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.exe
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.xml
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.pdb
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.exe
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.pdb
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.xml
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.frmChild.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.frmMain.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.Resources.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\resources\CIS338 W08\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.exe
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.xml
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.pdb
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.exe
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.pdb
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\bin\Debug\Project2.xml
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.frmChild.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.frmMain.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\Project2.Resources.resources
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton - Copy\Project2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton\Project2\obj\Debug\Project2.exe
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton\Project2\obj\Debug\Project2.xml
+C:\Users\hmouissa\Documents\Cal Poly Pomona\CIS338\2010 FALL\Assignments\Project2\Project2Skeleton\Project2\obj\Debug\Project2.pdb
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.exe
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.xml
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.pdb
+C:\Projects\Project02\Project2Skeleton\Project2\bin\Debug\Project2.exe
+C:\Projects\Project02\Project2Skeleton\Project2\bin\Debug\Project2.pdb
+C:\Projects\Project02\Project2Skeleton\Project2\bin\Debug\Project2.xml
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.vbprojResolveAssemblyReference.cache
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.frmChild.resources
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.frmMain.resources
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.Resources.resources
+C:\Projects\Project02\Project2Skeleton\Project2\obj\Debug\Project2.vbproj.GenerateResource.Cache
+C:\Projects\Project02\Project2Skeleton\Project2\bin\Debug\AddLines.dll
