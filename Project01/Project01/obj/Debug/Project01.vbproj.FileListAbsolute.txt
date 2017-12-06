@@ -1,0 +1,12 @@
+C:\Projects\Project01\Project01\Project01\bin\Debug\Project01.exe.config
+C:\Projects\Project01\Project01\Project01\bin\Debug\Project01.exe
+C:\Projects\Project01\Project01\Project01\bin\Debug\Project01.pdb
+C:\Projects\Project01\Project01\Project01\bin\Debug\Project01.xml
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.vbprojResolveAssemblyReference.cache
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.Resources.resources
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.vbproj.GenerateResource.Cache
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.exe
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.xml
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.pdb
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.frmMain.resources
+C:\Projects\Project01\Project01\Project01\obj\Debug\Project01.SummaryForm.resources
